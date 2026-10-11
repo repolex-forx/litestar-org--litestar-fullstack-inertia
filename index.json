@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "litestar-fullstack-inertia",
+  "versions": [
+    {
+      "commit": "07938d2d5a82568a1dcfcc2e4280d1694b77029e",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:25:31.681303+00:00"
+    }
+  ]
+}
