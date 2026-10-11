@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/litestar-org/litestar-fullstack-inertia/commit/07938d2d5a82568a1dcfcc2e4280d1694b77029e",
       "git:hexsha": "07938d2d5a82568a1dcfcc2e4280d1694b77029e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T22:25:31.680797+00:00"
     }
   ]
 }
